@@ -10,15 +10,13 @@ Advance Excel | SQL | Python | Pandas | NumPy | Matplotlib | Seaborn | Machine L
 
 ## Certifications
 **IBM Data Science Professional Certification:**  Python | SQL | MS Power BI | Machine Learning
-
 **MS Office Certification:** MS Excel (Advance Formulas & Functions) | MS Word | MS PowerPoint | MS Outlook
-
 **ERP & CRM Software:** SAP-ERP (Sales and Distribution) | Exact Globe ERP | Salesforce CRM | Zoho CRM | QuickBooks Pro 
 
 ## Education
-- **Master of Business Administration**, | The University of Sindh (2009 - 2012)								       		
-- **Bachelor of Commerce** | The University of Sindh (2007 - 2009)	 			        		
-- **Diploma in Computer Science** | SZABIST Nawabshah (2006 - 2007)
+- **Master of Business Administration**| University of Sindh (2009 - 2012)								       		
+- **Bachelor of Commerce**| University of Sindh (2007 - 2009)	 			        		
+- **Diploma in Computer Science** | SZABIST (2006 - 2007)
 
 ## Work Experience
 **Data Analyst @ Jobeco Group (_December 2019 - Present_)**
