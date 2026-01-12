@@ -9,11 +9,9 @@
 Advance Excel | SQL | Python | Pandas | NumPy | Matplotlib | Seaborn | Machine Learning | Web Scraping | Beautiful Soup | Power BI | Data Analysis  | Data Visualization | Business Intelligence (BI) | Performance Metrics | Data Cleaning | Data Mining | Statistical Analysis | Predictive Analytics | Database Management | ETL (Extract, Transform, Load) | Data Modeling | Report Writing | Dashboard Development | Key Performance Indicators (KPIs) | Market Research | Exploratory Data Analysis (EDA) | SAP ERP | Exact Globe ERP | Salesforce CRM | Zoho CRM | QuickBooks | Operations Management | Strategic Development | Financial Analysis | Recruitment & On-boarding | Human Resources Analysis | Sales Analysis | Meetings & Event Management | Process Improvement | Team Leadership | Time Management
 
 ## Certifications
-**IBM Data Science Professional Certification:**
-
-**MS Office Certification:**
-
-**SAP ERP, SalesForce, Zoho, Quickbooks Certification:**
+- **IBM Data Science Professional Certification**
+- **MS Office Certification**
+- **SAP ERP, SalesForce, Zoho, Quickbooks Certification**
 
 ## Education
 - **Master of Business Administration**    University of Sindh (2012)
